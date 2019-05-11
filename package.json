@@ -3,7 +3,7 @@
   "version": "7.2.3",
   "description": "A shim to insulate apps from WebRTC spec changes and browser prefix differences",
   "license": "BSD-3-Clause",
-  "main": "./release/adapter.js",
+  "main": "./dist/adapter_core5.js",
   "module": "./src/js/adapter_core.js",
   "repository": {
     "type": "git",
